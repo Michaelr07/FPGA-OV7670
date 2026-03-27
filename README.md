@@ -2,6 +2,9 @@
 
 ## This project implements a **real-time video pipeline** on the Nexys A7-100T FPGA using an **OV7670 camera** as the video source. The live image is captured, buffered in BRAM, processed through optional filters, and displayed via **VGA output**.
 
+Demo Video:
+https://youtu.be/eEiNuxEmB5g
+
 ![DEMO](OV7670_Demo.jpg)
 
 ## Features
